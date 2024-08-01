@@ -1,7 +1,5 @@
-// Results will change each time the code is run due to the looping feature, which is based on the changes in the search results e.g. availability. 
-
-
-The CSV results:                                                                                                                                                                                                                                                                                                                                      State, Cheapest Price
+The CSV results:
+State, Cheapest Price
 New York, 1673.0
 California, 695.0
 Texas, 681.0
@@ -13,4 +11,5 @@ Ohio, 613.0
 Illinois, 808.0
 Georgia, 191.0
 
+// Results will change each time the code is run due to the looping feature, which is based on the changes in the search results e.g. availability. 
 
